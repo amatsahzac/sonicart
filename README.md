@@ -1,5 +1,5 @@
 # sonicart
-todo
+to do
 <br>
 research ideas for project
 <br>

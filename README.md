@@ -29,8 +29,7 @@ Research has shown that smoking reduces life expectancy by seven to eight years.
 Exchanging life for 10 minutes of smoking i.e. not doing much
 <br>
 <br>
-Clouds
-<br>  
+Clouds  
 Concept: use the attached images which I have compiled over time and process them through software which takes images/ colours and turns them into sound data.
 <br>
 I will then possibly record outdoor/open spaces and uses these sounds as ‘instrumentation’ for the data that I have received form the images.

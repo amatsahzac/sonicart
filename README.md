@@ -40,7 +40,27 @@ Possible issues: narrowing down image selection, receiving useful data which can
 <br>
 <br> 
 Thunderstorm
-
+<br>
+Concept: This will be an installation piece where I play a video of a thunderstorm. There will be a sensor set up in front of the screen, the distance a person is standing from the sensor will decide on the velocity and volume of the thunder sound.
+<br>
+Extension on idea: use multiple sensors and multiple speakers to create a surround sound experience, use lighting to create a more immersive experience  
+<br>
+Reason: create an audio visual piece that stems from the idea of the speed of light and sound 
+<br>
+Possible issues: technical issues with sensors, finding a suitable location to house this piece
+<br>
+<br>
+Trees
+<br>
+Concept: The final outcome of this project will be silent. I will take multiple field recordings of trees and their surround areas. I shall then take a picture of the landscape which includes trees. The trees will be removed from the image and replaced by the images of the sound waves from the field recordings.
+<br>
+Extension on idea: re-create the whole landscape image using images of sound waves of recordings of each element in the image 
+<br>
+Reason: show how sound can be can be seen and exist within landscapes.
+<br>
+Possible issues: uncertainty of how the sound waves are going to look and if there is even a possibility of recreating the image with sound waves.
+<br>
+<br>
 2019-02-12
 <br>
 I discovered that the idea for my current project is going to be more technical than I first thought due to not being able to translate the noises birds are making.  

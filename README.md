@@ -33,6 +33,21 @@ Research has shown that smoking reduces life expectancy by seven to eight years.
 Exchanging life for 10 minutes of smoking i.e. not doing much
 <br>
 <br>
+Clouds
+<br>  
+<br>
+Concept: use the attached images which I have compiled over time and process them through software which takes images/ colours and turns them into sound data.
+<br>
+<br>  
+I will then possibly record outdoor/open spaces and uses these sounds as ‘instrumentation’ for the data that I have received form the images.
+<br>  
+<br>
+Reason: create music/sounds from the ‘invisible’ sounds that constantly surround us outdoors  
+<br>
+<br>  
+Possible issues: narrowing down image selection, receiving useful data which can be used to create music. 
+<br>
+<br>  
 2019-02-12
 <br>
 I discovered that the idea for my current project is going to be more technical than I first thought due to not being able to translate the noises birds are making.  

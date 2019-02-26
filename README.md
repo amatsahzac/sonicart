@@ -62,7 +62,6 @@ Possible issues: uncertainty of how the sound waves are going to look and if the
 2019-02-12
 <br>
 I discovered that the idea for my current project is going to be more technical than I first thought due to not being able to translate the noises birds are making.  
-<br> 
 to do
 <br>
 Come up with multiple ideas for project and try to narrow it down to one

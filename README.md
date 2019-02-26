@@ -20,9 +20,12 @@ Recording lighter
 <br>
 Concept: create a small recording device and attach it to a lighter which will be triggered by the flame being lit. Possibly compile these recordings into one track or have the lighter as the sonic art piece itself 
 <br>
+<br>
 Reason: shows how much time is wasted smoking 
 <br>
+<br>
 Possible issues: Ethical recording in public issues, technical issues e.g getting the recording device to record and finding a way to stop it recording.
+<br>
 <br>
 Research has shown that smoking reduces life expectancy by seven to eight years. On average, each cigarette shortens your life anywhere from seven to eleven minutes.
 Exchanging life for 10 minutes of smoking i.e. not doing much

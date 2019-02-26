@@ -11,6 +11,7 @@ Thunderstorm- Installation, Arduino, Max, Natural phenomena
 <br>
 Trees- Visual art, Collage, Nature, Landscape
 <br>
+<br>
 2019-02-19
 <br>
 Created 4 more possible ideas for my project these are as follows:
@@ -35,6 +36,7 @@ I discovered that the idea for my current project is going to be more technical 
 to do
 <br>
 Come up with multiple ideas for project and try to narrow it down to one
+<br>
 2019-02-05
 <br>
 looked into using nature as part of my project, specifically using bird sounds. My idea is to record the sound of birds in their natural habitat and then to play back the recording at a later date to see if they will respond to the sound of their own voice.

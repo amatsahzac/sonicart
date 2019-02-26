@@ -72,7 +72,6 @@ Come up with multiple ideas for project and try to narrow it down to one
 <br>
 looked into using nature as part of my project, specifically using bird sounds. My idea is to record the sound of birds in their natural habitat and then to play back the recording at a later date to see if they will respond to the sound of their own voice.
 <br>
-<br>
 to do
 <br>
 research the technicalities of my current project idea to see how realisitic it is.
@@ -81,7 +80,6 @@ research the technicalities of my current project idea to see how realisitic it 
 2019-01-29
 <br>
 conducted research looking into what sonic art is and projects that have been created in the past. 
-<br>
 <br>
 to do
 <br>

@@ -32,11 +32,8 @@ Exchanging life for 10 minutes of smoking i.e. not doing much
 Clouds
 <br>  
 Concept: use the attached images which I have compiled over time and process them through software which takes images/ colours and turns them into sound data.
-
 I will then possibly record outdoor/open spaces and uses these sounds as ‘instrumentation’ for the data that I have received form the images.
-  
 Reason: create music/sounds from the ‘invisible’ sounds that constantly surround us outdoors  
-
 Possible issues: narrowing down image selection, receiving useful data which can be used to create music. 
 <br>
 <br> 

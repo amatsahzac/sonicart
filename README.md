@@ -67,6 +67,7 @@ to do
 <br>
 Come up with multiple ideas for project and try to narrow it down to one
 <br>
+<br>
 2019-02-05
 <br>
 looked into using nature as part of my project, specifically using bird sounds. My idea is to record the sound of birds in their natural habitat and then to play back the recording at a later date to see if they will respond to the sound of their own voice.

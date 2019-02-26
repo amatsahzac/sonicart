@@ -44,7 +44,6 @@ Thunderstorm
 Concept: This will be an installation piece where I play a video of a thunderstorm. There will be a sensor set up in front of the screen, the distance a person is standing from the sensor will decide on the velocity and volume of the thunder sound.
 <br>
 Extension on idea: use multiple sensors and multiple speakers to create a surround sound experience, use lighting to create a more immersive experience  
-<br>
 Reason: create an audio visual piece that stems from the idea of the speed of light and sound 
 <br>
 Possible issues: technical issues with sensors, finding a suitable location to house this piece

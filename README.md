@@ -33,7 +33,6 @@ Research has shown that smoking reduces life expectancy by seven to eight years.
 Exchanging life for 10 minutes of smoking i.e. not doing much
 <br>
 <br>
-
 2019-02-12
 <br>
 I discovered that the idea for my current project is going to be more technical than I first thought due to not being able to translate the noises birds are making.  

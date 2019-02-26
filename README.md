@@ -35,7 +35,6 @@ Exchanging life for 10 minutes of smoking i.e. not doing much
 <br>
 Clouds
 <br>  
-<br>
 Concept: use the attached images which I have compiled over time and process them through software which takes images/ colours and turns them into sound data.
 <br>
 <br>  

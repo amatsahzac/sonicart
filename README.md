@@ -77,6 +77,7 @@ to do
 <br>
 research the technicalities of my current project idea to see how realisitic it is.
 <br>
+<br>
 2019-01-29
 <br>
 conducted research looking into what sonic art is and projects that have been created in the past. 

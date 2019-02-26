@@ -3,8 +3,11 @@
 <br>
 Keywords:
 Lighter- Life expectancy, Smoking, Addiction
+<br>
 Clouds- Outdoors, Sky, Musification, Synaesthesia
-Thunderstorm- Installation, Arduino, Max, Natural phenomena 
+<br>
+Thunderstorm- Installation, Arduino, Max, Natural phenomena
+<br>
 Trees- Visual art, Collage, Nature, Landscape
 <br>
 2019-02-19

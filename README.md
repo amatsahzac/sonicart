@@ -18,8 +18,6 @@ Created 4 more possible ideas for my project these are as follows:
 <br>
 <br>
 Recording lighter  
-<br>
-<br>
 Concept: create a small recording device and attach it to a lighter which will be triggered by the flame being lit. Possibly compile these recordings into one track or have the lighter as the sonic art piece itself 
 <br>
 Reason: shows how much time is wasted smoking 

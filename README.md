@@ -9,7 +9,7 @@ Clouds- Outdoors, Sky, Musification, Synaesthesia
 <br>
 Thunderstorm- Installation, Arduino, Max, Natural phenomena
 <br>
-Trees- Visual art, Collage, Nature, Landscape, visualisation
+Trees- Visual art, Collage, Nature, Landscape, Visualisation
 <br>
 <br>
 2019-02-19

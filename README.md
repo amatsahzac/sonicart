@@ -3,6 +3,7 @@
 <br>
 <br>
 Abstract- 
+<br>
 My sonic art piece will be in the form of an interactive physical picture. 
 The image will be a silhouette of a landscape which includes trees, a train track on a bridge, lights from a lamppost and houses with lights on. The picture was taken at night down by the river therefore there is a reflection of part of the landscape in the water. This reflection makes the silhouette landscape look like the shape of a waveform, I am going to edit this picture on photo shop to make the whole landscape reflect and look like a waveform.
 <br>

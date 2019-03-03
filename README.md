@@ -15,6 +15,9 @@ From left to right the landscape starts with just trees and then moves onto a tr
 The meaning behind the piece is that humanity is taking away the nature that we have left in the world. The sounds will get louder the further right you press on the picture due to the image looking like a waveform that gets bigger towards the end. The volume also represents how the world was once quiet and peaceful with just fields and trees but humanity has built trains and houses which cause noise pollution.
 <br>
 <br>
+Keywords- Conductive paint, Nature, Humanity, Landscape, Silhouette, Reflection.
+<br>
+<br>
 2019-02-26
 <br>
 Keywords:

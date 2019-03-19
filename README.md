@@ -1,4 +1,10 @@
 # sonicart
+2019-03-15
+<br>
+<br>
+Ran into compliacations with the Adafruit soundboard. The first issue is that the soundboard only works with Windows OS which I do not have easy access to. The original plan was to create a capacative touch circuit and then connect it to the soundboard however there would need to be gaps in the painting that would be bridged by touch to complete the circuit and play the sounds. I have ordered a new soundboard which has capacative touch built in therefore there is no need for gaps in the painting to be bridged. With the new soundboard once any of the paint is touched it will make a sound, there will still be gaps in the paint but this is to differenciate between sounds and not a gap to be bridged to play the sound.
+<br>
+<br>
 2019-03-03
 <br>
 <br>

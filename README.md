@@ -1,4 +1,11 @@
 # sonicart
+2019-03-21
+<br>
+<br>
+The new Bare Conductive touch board arrived and I began to create the interactive photo frame. the original plan was to use conductive paint however while I was putting this togetehr I realsied that this isnt needed. I used 6 wires with tin foil on the end which was then stuck to the backboard of a photo frame, I then placed the photo on top of the pieces of foil. when the picture is touched it is detected by the foil which interacts with the touch board and plays a sound. 
+I have used a test photo which I have divided into to sections and written what sounds will play in the final version of this piece. the next thign i need to do is to collect all the sounds and edit them accordingly to load on to the touchboard.  
+<br>
+<br>
 2019-03-15
 <br>
 <br>

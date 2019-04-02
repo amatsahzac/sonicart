@@ -1,4 +1,9 @@
 # sonicart
+
+text  idea explanantion
+video - product explantion
+
+
 2019-03-21
 <br>
 <br>

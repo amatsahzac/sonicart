@@ -1,7 +1,11 @@
 # sonicart
 
 text  idea explanantion
+<br>
 video - product explantion
+<br>
+explain arduino code
+<br>
 
 
 2019-03-21

@@ -1,11 +1,16 @@
 # sonicart
 
-text  idea explanantion
+text  idea explanantion - inspiration, other sonic art pieces, use reference 
 <br>
 video - product explantion
 <br>
 explain arduino code
 <br>
+receive feedback
+act upon feedback
+LEDs light up in built up area of photo. 
+think of length of sounds- use full sound scapes for each section
+future plans
 
 
 2019-03-21

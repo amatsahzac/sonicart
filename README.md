@@ -2,32 +2,51 @@
 
 text  idea explanantion - inspiration, other sonic art pieces, use reference 
 <br>
-video - product explantion
+video - product explantion.
 <br>
 explain arduino code
 <br>
-receive feedback
-act upon feedback
-LEDs light up in built up area of photo. 
-think of length of sounds- use full sound scapes for each section
 future plans
-
-
+2019-04-2
+<br>
+I have loaded the sounds on to the soundboard using a micro SD card. I have also received feedback on the piece which is as follows. There is a strong meaning behind this piece, The sounds could be more refined to have less low end in the soundscape as it takes up alot of room, the touch element adds a good interactive experience.
+<br>
+to do 
+<br>
+act upon the feedback I have received. I am going to edit the soundscapes to make them clearer.
+2019-03-26
+<br>
+I have re-wired my project to get a more solid connection. I have also decided to use the conductive paint as it is more responsive than the foil that I used previously. I have also discovered that I will not need to paint over the picture as the conductive paint works underneath the paper. I have recorded all the sounds I shall be using and have began to edit them in ableton.  
+<br>
+to do
+<br>
+Load the sounds onto the soundboard and get feedback on it.
+<br>
+The new Conductive touch board arrived, this is a circuit that can be used in conjuction with arduino software created by a company called Bare Conductive I began to create the interactive photo frame. the original plan was to use conductive paint however while I was putting this togetehr I realsied that this isnt needed. I used 6 wires with tin foil on the end which was then stuck to the backboard of a photo frame, I then placed the photo on top of the pieces of foil. when the picture is touched it is detected by the foil which interacts with the touch board and plays a sound. 
+I have used a test photo which I have divided into to sections and written what sounds will play in the final version of this piece. 
+<br>
+to do
+<br>
+the next thing I need to do is to collect all the sounds and edit them accordingly to load on to the touchboard.
+<br>
 2019-03-21
 <br>
+I have ordered a new soundboard which has capacative touch built in therefore there is no need for gaps in the painting to be bridged. With the new soundboard once any of the paint is touched it will make a sound, there will still be gaps in the paint but this is to differenciate between sounds and not a gap to be bridged to play the sound.
 <br>
-The new Bare Conductive touch board arrived and I began to create the interactive photo frame. the original plan was to use conductive paint however while I was putting this togetehr I realsied that this isnt needed. I used 6 wires with tin foil on the end which was then stuck to the backboard of a photo frame, I then placed the photo on top of the pieces of foil. when the picture is touched it is detected by the foil which interacts with the touch board and plays a sound. 
-I have used a test photo which I have divided into to sections and written what sounds will play in the final version of this piece. the next thign i need to do is to collect all the sounds and edit them accordingly to load on to the touchboard.  
+to do
 <br>
-<br>
+write a final abstract and define the meaning of the piece 
 2019-03-15
 <br>
 <br>
-Ran into compliacations with the Adafruit soundboard. The first issue is that the soundboard only works with Windows OS which I do not have easy access to. The original plan was to create a capacative touch circuit and then connect it to the soundboard however there would need to be gaps in the painting that would be bridged by touch to complete the circuit and play the sounds. I have ordered a new soundboard which has capacative touch built in therefore there is no need for gaps in the painting to be bridged. With the new soundboard once any of the paint is touched it will make a sound, there will still be gaps in the paint but this is to differenciate between sounds and not a gap to be bridged to play the sound.
+Ran into compliacations with the Adafruit soundboard. The first issue is that the soundboard only works with Windows OS which I do not have easy access to. The original plan was to create a capacative touch circuit and then connect it to the soundboard however there would need to be gaps in the painting that would be bridged by touch to complete the circuit and play the sounds. 
 <br>
+to do
 <br>
+Find an alternative to the adafruit board that I was originally going to use. 
 2019-03-03
 <br>
+I decided on what my sonic art piece shall be and wrote the abstract. My final idea is a mix of 3 of my original ideas, these are Thunderstorm, Clouds and Trees. I have used an image from the pictures I took for my clouds project. I took the idea of an interactive installation from my thunderstorm piece. The idea of using trees and a physical picture comes from my tree project.   
 <br>
 Abstract- 
 <br>
@@ -47,6 +66,8 @@ Keywords- Conductive paint, Soundboard, Interctive image, Nature, Humanity, Land
 <br>
 2019-02-26
 <br>
+Chose the keywords for each project,I am still having difficulty chosing a project and find a solid meaning.   
+<br>
 Keywords:
 <br>
 Lighter- Life expectancy, Smoking, Addiction
@@ -57,6 +78,9 @@ Thunderstorm- Installation, Arduino, Max, Natural phenomena
 <br>
 Trees- Visual art, Collage, Nature, Landscape, Visualisation
 <br>
+to do
+<br>
+chose a final idea and start creating the project
 <br>
 2019-02-19
 <br>
@@ -106,25 +130,24 @@ Possible issues: uncertainty of how the sound waves are going to look and if the
 <br>
 2019-02-12
 <br>
-I discovered that the idea for my current project is going to be more technical than I first thought due to not being able to translate the noises birds are making.  
+I discovered that the idea for my current project is going to be more technical than I first thought due to not being able to translate the noises birds are making. I was also finding it difficult to find a meaning behind the project.  
 to do
 <br>
-Come up with multiple ideas for project and try to narrow it down to one
+Come up with multiple ideas for project and try to narrow it down to one. 
 <br>
 <br>
 2019-02-05
 <br>
-looked into using nature as part of my project, specifically using bird sounds. My idea is to record the sound of birds in their natural habitat and then to play back the recording at a later date to see if they will respond to the sound of their own voice.
+looked into using nature as part of my project, specifically using bird sounds. My idea is to record the sound of birds in their natural habitat and then to play back the recording at a later date to see how they will respond to the sound of their own voice.
 <br>
 to do
 <br>
-research the technicalities of my current project idea to see how realisitic it is.
+research the technicalities of my current project idea to see how viable it is.
 <br>
 <br>
 2019-01-29
-<br>
-conducted research looking into what sonic art is and projects that have been created in the past. 
+<br>I have started to look into what sonic art is and projects that have been created in the past. I am also starting to think of themes for the meaning behind my project. I am thinking of doing something to do with nature and soundscapes.
 <br>
 to do
 <br>
-research more sonic art pieces and begin to think about ideas for my own project.
+research more sonic art pieces and begin to think about what kind of art piece I am going to create.

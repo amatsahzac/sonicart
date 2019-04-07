@@ -158,6 +158,7 @@ research the technicalities of my current project idea to see how viable it is.
 <br>
 I have started to look into what sonic art is and projects that have been created in the past. I am also starting to think of themes for the meaning behind my project. I am thinking of doing something to do with nature and soundscapes.
 <br>
+<br>
 to do
 <br>
 research more sonic art pieces and begin to think about what kind of art piece I am going to create.

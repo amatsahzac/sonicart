@@ -10,8 +10,8 @@ future plans
 <br>
 2019-04-2
 <br>
-I have loaded the sounds on to the soundboard using a micro SD card. I have also received feedback on the piece which is as follows. There is a strong meaning behind this piece, The sounds could be more refined to have less low end in the soundscape as it takes up alot of room, the touch element adds a good interactive experience.
 <br>
+I have loaded the sounds on to the soundboard using a micro SD card. I have also received feedback on the piece which is as follows. There is a strong meaning behind this piece, The sounds could be more refined to have less low end in the soundscape as it takes up alot of room, the touch element adds a good interactive experience.
 to do 
 <br>
 act upon the feedback I have received. I am going to edit the soundscapes to make them clearer.

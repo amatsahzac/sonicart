@@ -11,6 +11,8 @@ future plans
 2019-04-2
 <br>
 I have loaded the sounds on to the soundboard using a micro SD card. I have also received feedback on the piece which is as follows. There is a strong meaning behind this piece, The sounds could be more refined to have less low end in the soundscape as it takes up alot of room, the touch element adds a good interactive experience.
+<br>
+<br>
 to do 
 <br>
 act upon the feedback I have received. I am going to edit the soundscapes to make them clearer.
@@ -20,12 +22,14 @@ act upon the feedback I have received. I am going to edit the soundscapes to mak
 <br>
 I have re-wired my project to get a more solid connection. I have also decided to use the conductive paint as it is more responsive than the foil that I used previously. I have also discovered that I will not need to paint over the picture as the conductive paint works underneath the paper. I have recorded all the sounds I shall be using and have began to edit them in ableton.  
 <br>
+<br>
 to do
 <br>
 Load the sounds onto the soundboard and get feedback on it.
 <br>
 The new Conductive touch board arrived, this is a circuit that can be used in conjuction with arduino software created by a company called Bare Conductive I began to create the interactive photo frame. the original plan was to use conductive paint however while I was putting this togetehr I realsied that this isnt needed. I used 6 wires with tin foil on the end which was then stuck to the backboard of a photo frame, I then placed the photo on top of the pieces of foil. when the picture is touched it is detected by the foil which interacts with the touch board and plays a sound. 
 I have used a test photo which I have divided into to sections and written what sounds will play in the final version of this piece. 
+<br>
 <br>
 to do
 <br>
@@ -39,13 +43,13 @@ I have ordered a new soundboard which has capacative touch built in therefore th
 <br>
 to do
 <br>
-<br>
 write a final abstract and define the meaning of the piece.
 <br>
 <br>
 2019-03-15
 <br>
 Ran into compliacations with the Adafruit soundboard. The first issue is that the soundboard only works with Windows OS which I do not have easy access to. The original plan was to create a capacative touch circuit and then connect it to the soundboard however there would need to be gaps in the painting that would be bridged by touch to complete the circuit and play the sounds. 
+<br>
 <br>
 to do
 <br>
@@ -85,6 +89,7 @@ Clouds- Outdoors, Sky, Musification, Synaesthesia
 Thunderstorm- Installation, Arduino, Max, Natural phenomena
 <br>
 Trees- Visual art, Collage, Nature, Landscape, Visualisation
+<br>
 <br>
 to do
 <br>
@@ -140,6 +145,8 @@ Possible issues: uncertainty of how the sound waves are going to look and if the
 2019-02-12
 <br>
 I discovered that the idea for my current project is going to be more technical than I first thought due to not being able to translate the noises birds are making. I was also finding it difficult to find a meaning behind the project.  
+<br>
+<br>
 to do
 <br>
 Come up with multiple ideas for project and try to narrow it down to one. 
@@ -148,6 +155,7 @@ Come up with multiple ideas for project and try to narrow it down to one.
 2019-02-05
 <br>
 looked into using nature as part of my project, specifically using bird sounds. My idea is to record the sound of birds in their natural habitat and then to play back the recording at a later date to see how they will respond to the sound of their own voice.
+<br>
 <br>
 to do
 <br>

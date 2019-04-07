@@ -10,7 +10,7 @@ future plans
 <br>
 2019-04-2
 <br>
-I have loaded the sounds on to the soundboard using a micro SD card. I have also received feedback on the piece which is as follows. There is a strong meaning behind this piece, The sounds could be more refined to have less low end in the soundscape as it takes up alot of room, the touch element adds a good interactive experience.
+I have finished the soundscapes and loaded them on to the soundboard using a micro SD card. I have also received feedback on the piece which is as follows. There is a strong meaning behind this piece, The sounds could be more refined to have less low end in the soundscape as it takes up alot of room, the touch element adds a good interactive experience.
 <br>
 <br>
 to do 
@@ -25,9 +25,10 @@ I have re-wired my project to get a more solid connection. I have also decided t
 <br>
 to do
 <br>
-Load the sounds onto the soundboard and get feedback on it.
+finish editing the soundscapes, load them onto the soundboard and get feedback.
 <br>
-The new Conductive touch board arrived, this is a circuit that can be used in conjuction with arduino software created by a company called Bare Conductive I began to create the interactive photo frame. the original plan was to use conductive paint however while I was putting this togetehr I realsied that this isnt needed. I used 6 wires with tin foil on the end which was then stuck to the backboard of a photo frame, I then placed the photo on top of the pieces of foil. when the picture is touched it is detected by the foil which interacts with the touch board and plays a sound. 
+<br>
+The new Conductive touch board arrived, this is a circuit that can be used in conjuction with arduino software created by a company called Bare Conductive I began to create the interactive photo frame. the original plan was to use conductive paint however while I was putting this together I realised that this isnt needed. I used 6 wires with tin foil on the end which was then stuck to the backboard of a photo frame, I then placed the photo on top of the pieces of foil. when the picture is touched it is detected by the foil which interacts with the touch board and plays a sound. 
 I have used a test photo which I have divided into to sections and written what sounds will play in the final version of this piece. 
 <br>
 <br>

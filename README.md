@@ -7,6 +7,7 @@ video - product explantion.
 explain arduino code
 <br>
 future plans
+<br>
 2019-04-2
 <br>
 I have loaded the sounds on to the soundboard using a micro SD card. I have also received feedback on the piece which is as follows. There is a strong meaning behind this piece, The sounds could be more refined to have less low end in the soundscape as it takes up alot of room, the touch element adds a good interactive experience.
@@ -14,6 +15,7 @@ I have loaded the sounds on to the soundboard using a micro SD card. I have also
 to do 
 <br>
 act upon the feedback I have received. I am going to edit the soundscapes to make them clearer.
+<br>
 2019-03-26
 <br>
 I have re-wired my project to get a more solid connection. I have also decided to use the conductive paint as it is more responsive than the foil that I used previously. I have also discovered that I will not need to paint over the picture as the conductive paint works underneath the paper. I have recorded all the sounds I shall be using and have began to edit them in ableton.  
@@ -35,7 +37,8 @@ I have ordered a new soundboard which has capacative touch built in therefore th
 <br>
 to do
 <br>
-write a final abstract and define the meaning of the piece 
+write a final abstract and define the meaning of the piece.
+<br>
 2019-03-15
 <br>
 <br>

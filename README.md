@@ -3,6 +3,7 @@
 text  idea explanantion - inspiration, other sonic art pieces, use reference 
 
 feedback LEDs for queues on where sections are 
+         Refine the image
 <br>
 video - product explantion.
 <br>

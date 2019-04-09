@@ -1,5 +1,5 @@
 It has been reported that the levels of climate warming gasses are set to rise to near record amounts in 2019. The things that people do in their day to day lives affect the way the earth is evolving and not in a good way. These statistics show the main sources of CO2 emissions
-
+![alt text]https://github.com/amatsahzac/sonicart/blob/master/Screen%20Shot%202019-04-06%20at%2022.39.54.png)
 If the way we treat the land we live in does not change, the world could end sooner than we think.
 
 After seeing these figures I decided to create this installation. Its main focus is to make people aware of the contributing factors of global warming and to make them more conscious of their carbon footprint. I have edited an image of a landscape to mirror the top half of itself so that it looks like a waveform. It has been split into 6 different sections when touched each section plays a short soundscape. These soundscapes have been created using my own field recordings and royalty free sounds. I have made this an interactive piece because I am urging the audience to get back in touch with nature. I have also not seen any physical photos that make sound through the use of touch.

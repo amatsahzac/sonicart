@@ -2,6 +2,8 @@ It has been reported that the levels of climate warming gasses are set to rise t
 The things that people do in their day to day lives affect the way the earth is evolving and not in a good way. 
 These statistics show the main sources of CO2 emissions 
 
+
+
 If the way we treat the land we live in does not change, the world could end sooner than we think. 
 
 After seeing these figures I decided to create this installation, its main focus is to make people aware of the contributing factors of global warming and to make them more conscious of their carbon footprint. 
@@ -17,7 +19,8 @@ There are also many sound artists that have created pieces based on global warmi
 
 
 
-Bibliography: 
+
+References:
 
 Our world in data. 2017. Carbon dioxide emissions by sector, World. [online]. Available from: https://ourworldindata.org/grapher/global-carbon-dioxide-emissions-by-sector
 

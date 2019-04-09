@@ -17,16 +17,5 @@ There are also many sound artists that have created pieces based on global warmi
 
 
 
-References:
 
-Our world in data. 2017. Carbon dioxide emissions by sector, World. [online]. Available from: https://ourworldindata.org/grapher/global-carbon-dioxide-emissions-by-sector
-
-Lescaze, Z. 2018. 12 Artists On: Climate Change. [online]. Available from: https://www.nytimes.com/2018/08/22/t-magazine/climate-change-art.html
-
-Hamilton, A.J. 2019. Allison Janae Hamilton’s website [online]. Available from: http://www.allisonjanaehamilton.com/biography
-
-Potenza, A. 2017. The Verge. Listen to the music made to the rhythm of global warming. [online]. Available from: https://www.theverge.com/2017/11/11/16623756/stephan-crawford-interview-climate-change-music-project-science-data
-
-The Climate Change Music Project. 2018. What we do. [online]. Available from:
-http://www.theclimatemusicproject.org/what-we-do
 

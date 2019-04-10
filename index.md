@@ -6,9 +6,6 @@ If the way we treat the land we live in does not change, the world could end soo
 
 After seeing these figures I decided to create this installation. Its main focus is to make people aware of the contributing factors of global warming and to make them more conscious of their carbon footprint. I have edited an image of a landscape to mirror the top half of itself so that it looks like a waveform. It has been split into 6 different sections when touched each section plays a short soundscape. These soundscapes have been created using my own field recordings and royalty free sounds. I have made this an interactive piece because I am urging the audience to get back in touch with nature. I have also not seen any physical photos that make sound through the use of touch.
 
-<a href="<iframe width="560" height="315" src="https://www.youtube.com/embed/QaKdyJiYTzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 There are many artists that use photography and pictures on the subject of global warming. An example of this is Allison Janae Hamilton’s work which uses pictures of landscapes to tell the story of how climate change and the weakness of the earth is affecting communities that live within it. I have taken the idea of using photography in this piece more specifically the silhouette of a landscape. I have chosen to use a silhouette due to the connotations that it provides. The major one being that a silhouette is dark and almost like a shadow. This can be seen as showing that if we don’t do anything about climate change there will be nothing there just like a shadow. It also can be seen as saying that climate change has been left in the dark by the public and that there is not enough going on to fix it.

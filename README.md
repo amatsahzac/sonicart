@@ -1,4 +1,4 @@
-# sonicart log
+# sonicart logbook
 2019-04-09
 <br>
 I have received more feedback, this was suggesting that I could use lights to indicate the section that is playing. I have now removed the portable speaker that was attached to the frame and will use the AUX input when setting up the piece in various location. 

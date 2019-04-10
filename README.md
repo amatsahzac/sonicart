@@ -1,15 +1,9 @@
 # sonicart
-
-text  idea explanantion - inspiration, other sonic art pieces, use reference 
-
-feedback LEDs for queues on where sections are 
-         Refine the image
+2019-04-09
 <br>
-video - product explantion.
+I have received more feedback, this was suggesting that I could use lights to indicate the section that is playing. I have now removed the portable speaker that was attached to the frame and will use the AUX input when setting up the piece in various location. 
+My future plans with this project would be to make this piece on a much larger scale, include more sounds and possibly make other installations using conductive paint and awareness of current events.
 <br>
-explain arduino code
-<br>
-future plans
 <br>
 2019-04-2
 <br>

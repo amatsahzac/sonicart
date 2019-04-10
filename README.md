@@ -19,7 +19,7 @@ act upon the feedback I have received. I am going to edit the soundscapes to mak
 <br>
 I have re-wired my project to get a more solid connection. I have also decided to use the conductive paint as it is more responsive than the foil that I used previously. I have also discovered that I will not need to paint over the picture as the conductive paint works underneath the paper. I have recorded all the sounds I shall be using and have began to edit them in ableton.  
 <br>
-![p1](prototype2)
+![p1](prototype2.jpg)
 <br>
 to do
 <br>

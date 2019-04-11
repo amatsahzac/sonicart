@@ -2,6 +2,8 @@ It has been reported that the levels of climate warming gasses are set to rise t
 
  ![Climatechange](img/climatechangegraph.png)
 
+ <img src="img/climatechangegraph.png" style='width:100%;' border="0" alt="Null">
+
 If the way we treat the land we live in does not change, the world could end sooner than we think.
 
 After seeing these figures I decided to create this installation. Its main focus is to make people aware of the contributing factors of global warming and to make them more conscious of their carbon footprint. I have edited an image of a landscape to mirror the top half of itself so that it looks like a waveform. It has been split into 6 different sections when touched each section plays a short soundscape. These soundscapes have been created using my own field recordings and royalty free sounds. I have made this an interactive piece because I am urging the audience to get back in touch with nature. I have also not seen any physical photos that make sound through the use of touch.

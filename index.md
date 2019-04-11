@@ -1,7 +1,5 @@
 It has been reported that the levels of climate warming gasses are set to rise to near record amounts in 2019. The things that people do in their day to day lives affect the way the earth is evolving and not in a good way. These statistics show the main sources of CO2 emissions
 
- ![Climatechange](img/climatechangegraph.png)
-
  <img src="img/climatechangegraph.png" style='width:100%;' border="0" alt="Null">
 
 If the way we treat the land we live in does not change, the world could end sooner than we think.
